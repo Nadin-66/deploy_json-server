@@ -2,6 +2,30 @@
 	"items": [
 		{
 			"id": 1,
+			"nElements": 1,
+			"code": ".parent{\n\theight: 100vh;\n\tdisplay: flex;\n\tjustify-content: space-around;\n\talign-items: flex-start;\n}\n.child{\n\tbackground-color: yellowgreen;\n\twidth: 200px;\n\theight: 200px;\n\ttext-align: center;\n\tfont-size: 50px;\n\tcolor: #323030;\n}",
+			"name": "two",
+			"type": "grid",
+			"image": "https://ik.imagekit.io/nadiia/CSS_from_Genie/-2.jpg?updatedAt=1680522283055"
+		},
+		{
+			"id": 2,
+			"nElements": 1,
+			"code": ".parent{\n\theight: 100vh;\n\tdisplay: flex;\n\tflex-direction: column;\n\tjustify-content: space-between;\n\talign-items: flex-start;\n}\n.child{\n\tbackground-color: yellowgreen;\n\twidth: 200px;\n\theight: 200px;\n\ttext-align: center;\n\tfont-size: 50px;\n\tcolor: #323030;\n}",
+			"name": "two",
+			"type": "flex",
+			"image": "https://ik.imagekit.io/nadiia/CSS_from_Genie/-1.jpg?updatedAt=1680522283119"
+		},
+		{
+			"id": 3,
+			"nElements": 1,
+			"code": ".parent{\n\theight: 100vh;\n\tdisplay: flex;\n\tjustify-content: space-around;\n\talign-items: flex-center;\n}\n.child{\n\tbackground-color: yellowgreen;\n\twidth: 200px;\n\theight: 200px;\n\ttext-align: center;\n\tfont-size: 50px;\n\tcolor: #323030;\n}",
+			"name": "two",
+			"type": "flex",
+			"image": "https://ik.imagekit.io/nadiia/CSS_from_Genie/0.jpg?updatedAt=1680522285025"
+		},
+		{
+			"id": 4,
 			"nElements": 2,
 			"code": ".parent{\n\theight: 100vh;\n\tdisplay: flex;\n\tjustify-content: space-around;\n\talign-items: flex-start;\n}\n.child{\n\tbackground-color: yellowgreen;\n\twidth: 200px;\n\theight: 200px;\n\ttext-align: center;\n\tfont-size: 50px;\n\tcolor: #323030;\n}",
 			"name": "two",
@@ -9,7 +33,7 @@
 			"image": "https://ik.imagekit.io/nadiia/CSS_from_Genie/1.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1675256583866"
 		},
 		{
-			"id": 2,
+			"id": 5,
 			"nElements": 2,
 			"code": ".parent{\n\theight: 100vh;\n\tdisplay: flex;\n\tflex-direction: column;\n\tjustify-content: space-between;\n\talign-items: flex-start;\n}\n.child{\n\tbackground-color: yellowgreen;\n\twidth: 200px;\n\theight: 200px;\n\ttext-align: center;\n\tfont-size: 50px;\n\tcolor: #323030;\n}",
 			"name": "two",
@@ -17,7 +41,7 @@
 			"image": "https://ik.imagekit.io/nadiia/CSS_from_Genie/2.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1675256596608"
 		},
 		{
-			"id": 3,
+			"id": 6,
 			"nElements": 2,
 			"code": ".parent{\n\theight: 100vh;\n\tdisplay: flex;\n\tjustify-content: space-around;\n\talign-items: flex-center;\n}\n.child{\n\tbackground-color: yellowgreen;\n\twidth: 200px;\n\theight: 200px;\n\ttext-align: center;\n\tfont-size: 50px;\n\tcolor: #323030;\n}",
 			"name": "two",
@@ -25,7 +49,7 @@
 			"image": "https://ik.imagekit.io/nadiia/CSS_from_Genie/3.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1675256582211"
 		},
 		{
-			"id": 4,
+			"id": 7,
 			"nElements": 3,
 			"code": "parent{\n\theight: 100vh;\n\tdisplay: flex;\n\tflex-direction: column;\n}\n.child{\n\tbackground-color: #32cda4;;\n\twidth: 200px;\n\theight: 200px;\n\ttext-align: center;\n\tfont-size: 50px;\n\tcolor: #323030;\n}",
 			"name": "three",
@@ -33,7 +57,7 @@
 			"image": "https://ik.imagekit.io/nadiia/CSS_from_Genie/4.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1675256582143"
 		},
 		{
-			"id": 5,
+			"id": 8,
 			"nElements": 3,
 			"code": ".parent{\n\theight: 100vh;\n\tdisplay: flex;\n\tflex-direction: column;\n\tjustify-content: space-around;\n\talign-items: flex-end;\n}\n.child{\n\tbackground-color: #32cda4;;\n\twidth: 200px;\n\theight: 200px;\n\ttext-align: center;\n\tfont-size: 50px;\n\tcolor: #323030;\n}",
 			"name": "three",
@@ -41,7 +65,7 @@
 			"image": "https://ik.imagekit.io/nadiia/CSS_from_Genie/5.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1675256583322"
 		},
 		{
-			"id": 6,
+			"id": 9,
 			"nElements": 3,
 			"code": ".parent{\n\theight: 100vh;\n\tdisplay: flex;\n\tjustify-content: space-between;\n}\n.child{\n\tbackground-color: #32cda4;\n\twidth: 200px;\n\theight: 200px;\n\ttext-align: center;\n\tfont-size: 50px;\n\tcolor: #323030;\n}",
 			"name": "three",
@@ -49,7 +73,7 @@
 			"image": "https://ik.imagekit.io/nadiia/CSS_from_Genie/6.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1675256597384"
 		},
 		{
-			"id": 7,
+			"id": 10,
 			"nElements": 4,
 			"code": ".parent{\n\theight: 100vh;\n\tdisplay: flex;\n\tflex-direction: column;\n\tflex-wrap: wrap;\n\tjustify-content: start;\n}\n.child{\n\tbackground-color: yellowgreen;\n\twidth: 250px;\n\theight: 250px;\n\ttext-align: center;\n\tfont-size: 50px;\n\tcolor: #323030;\n}",
 			"name": "four",
@@ -57,7 +81,7 @@
 			"image": "https://ik.imagekit.io/nadiia/CSS_from_Genie/7.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1675256582320"
 		},
 		{
-			"id": 8,
+			"id": 11,
 			"nElements": 4,
 			"code": ".parent{\n\theight: 100vh;\n\tdisplay: flex;\n\tflex-direction: column;\n\tflex-wrap: wrap;\n\tjustify-content: space-between;\n}\n.child{\n\tbackground-color: yellowgreen;\n\twidth: 30%;\n\theight: 30%;\n\ttext-align: center;\n\tfont-size: 50px;\n\tcolor: #323030;}\n.child .d {\n\tflex-grow: 3;\n}",
 			"name": "four",
@@ -65,7 +89,7 @@
 			"image": "https://ik.imagekit.io/nadiia/CSS_from_Genie/8.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1675256582815"
 		},
 		{
-			"id": 9,
+			"id": 12,
 			"nElements": 4,
 			"code": ".parent{\n\theight: 100vh;\n\tdisplay: flex;\n\tflex-wrap: wrap;\n\tjustify-content: space-around;\n\tgap:30px\n}\n.child{\n\tbackground-color: yellowgreen;\n\twidth: 30%;\n\theight: 30%;\n\ttext-align: center;\n\tfont-size: 50px;\n\tcolor: #323030;}\n.child .d {\n\tflex-grow: 3;\n}",
 			"name": "four",
@@ -73,7 +97,7 @@
 			"image": "https://ik.imagekit.io/nadiia/CSS_from_Genie/9.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1675256581809"
 		},
 		{
-			"id": 10,
+			"id": 13,
 			"nElements": 4,
 			"code": ".parent{\n\theight: 100vh;\n\tdisplay: flex;\n\tflex-direction: row;\n\tflex-wrap: wrap;\n\tjustify-content: space-around;\n\tgap:200px\n}\n.child{\n\tbackground-color: yellowgreen;\n\twidth: 290px;\n\theight: 240px;\n\ttext-align: center;\n\tcolor: #323030;\n\tfont-size: 50px;\n}",
 			"name": "four",
@@ -81,7 +105,7 @@
 			"image": "https://ik.imagekit.io/nadiia/CSS_from_Genie/10.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1675256582658"
 		},
 		{
-			"id": 11,
+			"id": 14,
 			"nElements": 4,
 			"code": ".parent{\n\theight: 100vh;\n\tdisplay: flex;\n\tflex-wrap: wrap;\n\tjustify-content: space-around;\n\talign-items: stretch;\n}\n.child{\n\tbackground-color: yellowgreen;\n\twidth: 200px;\n\ttext-align: center;\n\tfont-size: 50px;\n\tcolor: #323030;\n}",
 			"name": "four",
