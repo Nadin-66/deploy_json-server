@@ -3,7 +3,7 @@
 		{
 			"id": 1,
 			"nElements": 1,
-			"code": ".parent{\n\tdisplay: flex;\n\tjustify-content: center;\n}\n.child{\n\tbackground-color: yellowgreen;\n\twidth: 200px;\n\theight: 200px;\n\tfont-size: 50px;\n\tcolor: #323030;\n}",
+			"code": ".parent{\n\tdisplay: flex;\n\tjustify-content: center;\n\talign-items: center;\n}\n.child{\n\tbackground-color: yellowgreen;\n\twidth: 200px;\n\theight: 200px;\n\tfont-size: 50px;\n\ttext-align: center;\n\tcolor: #323030;\n}",
 			"name": "one",
 			"type": "grid",
 			"image": "https://ik.imagekit.io/nadiia/CSS_from_Genie/-2.jpg?updatedAt=1680522283055"
@@ -11,7 +11,7 @@
 		{
 			"id": 2,
 			"nElements": 1,
-			"code": ".parent{\n\theight: 100vh;\n\tdisplay: flex;\n\tjustify-content: center;\n\talign-items: center;\n}\n.child{\n\tbackground-color: yellowgreen;\n\twidth: 200px;\n\theight: 200px;\n\ttext-align: center;\n\tfont-size: 50px;\n\tcolor: #323030;\n}",
+			"code": ".parent{\n\theight: 100vh;\n\tdisplay: flex;\n\tjustify-content: center;\n}\n.child{\n\tbackground-color: yellowgreen;\n\twidth: 200px;\n\theight: 200px;\n\ttext-align: center;\n\tfont-size: 50px;\n\tcolor: #323030;\n}",
 			"name": "one",
 			"type": "flex",
 			"image": "https://ik.imagekit.io/nadiia/CSS_from_Genie/-1.jpg?updatedAt=1680522283119"
